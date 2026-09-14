@@ -3,7 +3,6 @@
 ### 🧪 QA Engineer | Manual Testing | Automation Testing | API Testing
 
 📍 Colombo, Sri Lanka
-📧 **[kokilaabeysinghe01@gmail.com](mailto:kokilaabeysinghe01@gmail.com)**
 💼 **[LinkedIn](https://linkedin.com/in/kokila-abeysinghe)**
 🐙 **[GitHub](https://github.com/KokilaAbeysinghe)**
 
