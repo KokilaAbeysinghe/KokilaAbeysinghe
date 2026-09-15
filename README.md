@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Kokila Abeysinghe
+# Hi, I'm Kokila Abeysinghe
 
-### 🧪 QA Engineer | Manual Testing | Automation Testing | API Testing
+### QA Engineer | Manual Testing | Automation Testing | API Testing
 
 📍 Colombo, Sri Lanka
 💼 **[LinkedIn](https://linkedin.com/in/kokila-abeysinghe)**
